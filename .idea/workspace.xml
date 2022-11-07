@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8578cf60-1d48-4609-b16f-05562e514140" name="Changes" comment="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8578cf60-1d48-4609-b16f-05562e514140" name="Changes" comment="If condition added">
       <change beforePath="$PROJECT_DIR$/src/Planetes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Planetes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <workItem from="1657171576337" duration="1288000" />
       <workItem from="1666312325465" duration="1116000" />
       <workItem from="1666463068696" duration="203000" />
-      <workItem from="1667845753150" duration="594000" />
+      <workItem from="1667845753150" duration="907000" />
     </task>
     <task id="LOCAL-00001" summary="HelloUniverese Crée">
       <created>1656713860892</created>
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657172305617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="If condition added">
+      <created>1667848280475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667848280475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +121,7 @@
     <MESSAGE value="Nombre total de planete dans le systema solaire" />
     <MESSAGE value="Chaque phrase est liée a une variable" />
     <MESSAGE value="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation" />
+    <MESSAGE value="If condition added" />
+    <option name="LAST_COMMIT_MESSAGE" value="If condition added" />
   </component>
 </project>
