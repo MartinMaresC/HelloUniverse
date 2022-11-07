@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8578cf60-1d48-4609-b16f-05562e514140" name="Changes" comment="Chaque phrase est liée a une variable">
+    <list default="true" id="8578cf60-1d48-4609-b16f-05562e514140" name="Changes" comment="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Planetes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Planetes.java" afterDir="false" />
     </list>
@@ -29,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/marti/IdeaProjects/HelloUniverse"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Planetes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Planetes" />
@@ -59,7 +60,10 @@
       <option name="presentableId" value="Default" />
       <updated>1656713685697</updated>
       <workItem from="1656713687179" duration="2530000" />
-      <workItem from="1657171576337" duration="602000" />
+      <workItem from="1657171576337" duration="1288000" />
+      <workItem from="1666312325465" duration="1116000" />
+      <workItem from="1666463068696" duration="203000" />
+      <workItem from="1667845753150" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="HelloUniverese Crée">
       <created>1656713860892</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656725189179</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation">
+      <created>1657172305617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657172305617</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +114,7 @@
     <MESSAGE value="HelloUniverese Crée" />
     <MESSAGE value="Nombre total de planete dans le systema solaire" />
     <MESSAGE value="Chaque phrase est liée a une variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chaque phrase est liée a une variable" />
+    <MESSAGE value="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaque phrase est liée a une variable qui est incrementee par un grace a loperateur dincrementation" />
   </component>
 </project>
